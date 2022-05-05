@@ -1,0 +1,27 @@
+{
+  "name": "4-festival-de-musica",
+  "version": "1.0.0",
+  "description": "Proyecto con Gulp, SASS Y HTML",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M4rquinhos/4-Festival-De-Musica.git"
+  },
+  "keywords": [
+    "SaSS",
+    "Gulp"
+  ],
+  "author": "Marco Carrillo Marquinos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M4rquinhos/4-Festival-De-Musica/issues"
+  },
+  "homepage": "https://github.com/M4rquinhos/4-Festival-De-Musica#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "sass": "^1.51.0"
+  }
+}
